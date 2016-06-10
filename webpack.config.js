@@ -19,7 +19,7 @@ if (doMinify) {
 module.exports = {
     entry: ['babel-polyfill', './src/index.js'],
     output: {
-        path: './bin',
+        path: package.babelWebpack.buildFolder,
         filename: filename + '.js',
     },
     module: {
