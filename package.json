@@ -23,14 +23,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rocketedaway/mtg-vision.git"
+        "url": "git+https://github.com/rocketedaway/babel-webpack.git"
     },
     "author": "Randy Wilander",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/rocketedaway/mtg-vision/issues"
+        "url": "https://github.com/rocketedaway/babel-webpack/issues"
     },
-    "homepage": "https://github.com/rocketedaway/mtg-vision#readme",
+    "homepage": "https://github.com/rocketedaway/babel-webpack#readme",
     "keywords": [
         "JS",
         "NodeJS",
