@@ -1,0 +1,5 @@
+{
+  "rootDir": "src",
+  "testPathDirs": ["<rootDir>/src"],
+  "unmockedModulePathPatterns": ["<rootDir>/node_modules/"]
+}
